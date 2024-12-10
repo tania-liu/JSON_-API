@@ -1,0 +1,38 @@
+[
+  {
+    "sport": "Ice Hockey",
+    "type": "Team Sport",
+    "details": {
+      "origin": "Canada",
+      "popularLeagues": ["NHL", "OHL"],
+      "players": {
+        "position": ["Forward", "Defense", "Goalie"],
+        "equipment": ["Puck", "Stick", "Skates", "Helmet"]
+      }
+    }
+  },
+  {
+    "sport": "Lacrosse",
+    "type": "Team Sport",
+    "details": {
+      "origin": "Canada",
+      "popularLeagues": ["NLL", "CLax"],
+      "players": {
+        "position": ["Attack", "Midfield", "Defense", "Goalie"],
+        "equipment": ["Ball", "Crosse", "Helmet", "Gloves"]
+      }
+    }
+  },
+  {
+    "sport": "Canadian Football",
+    "type": "Team Sport",
+    "details": {
+      "origin": "Canada",
+      "popularLeagues": ["CFL", "U Sports"],
+      "players": {
+        "position": ["Quarterback", "Receiver", "Running Back", "Defensive Lineman"],
+        "equipment": ["Football", "Helmet", "Pads", "Jersey"]
+      }
+    }
+  }
+]
