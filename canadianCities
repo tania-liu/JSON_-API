@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Toronto",
+    "province": "Ontario",
+    "population": 2731571,
+    "area_km2": 630.2,
+    "country": "Canada"
+  },
+  {
+    "name": "Vancouver",
+    "province": "British Columbia",
+    "population": 631490,
+    "area_km2": 114.97,
+    "country": "Canada"
+  },
+  {
+    "name": "Montreal",
+    "province": "Quebec",
+    "population": 1704694,
+    "area_km2": 365.13,
+    "country": "Canada"
+  },
+  {
+    "name": "Calgary",
+    "province": "Alberta",
+    "population": 1306070,
+    "area_km2": 825.29,
+    "country": "Canada"
+  },
+  {
+    "name": "Ottawa",
+    "province": "Ontario",
+    "population": 934243,
+    "area_km2": 2778.6,
+    "country": "Canada"
+  }
+]
