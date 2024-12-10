@@ -1,0 +1,9 @@
+{
+  "city": {
+    "name": "Toronto",
+    "province": "Ontario",
+    "population": 2731571,
+    "area_km2": 630.2,
+    "country": "Canada"
+  }
+}
